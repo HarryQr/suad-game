@@ -1,4 +1,4 @@
-const audio = document.getElementById("backgroundMusic");
+const audio = document.getElementById ("backgroundMusic");
 
 
    const audioQuery = document.querySelector("audio");
